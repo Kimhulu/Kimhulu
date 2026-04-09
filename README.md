@@ -42,13 +42,13 @@ Meu nome é Carolina Borges, sou de Porto, Portugal e atualmente curso Imagem In
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats-eight-pied-65.vercel.app/api?username=Kimhulu&show_icons=true&theme={{TEMA}}&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true"
+    src="https://github-readme-stats-eight-pied-65.vercel.app/api?username=Kimhulu&show_icons=true&theme=holi&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true"
   />
 
   <img 
     align="left" 
     alt="Top Languages" 
     height="200" 
-    src="https://github-readme-stats-eight-pied-65.vercel.app/api/top-langs/?username=Kimhulu&theme={{TEMA}}&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true"
+    src="https://github-readme-stats-eight-pied-65.vercel.app/api/top-langs/?username=Kimhulu&theme=holi&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true"
   />
 </p>
