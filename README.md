@@ -8,14 +8,14 @@ Meu nome é Carolina Borges, sou de Porto, Portugal e atualmente curso Imagem In
     <img 
       alt="Total de estrelas" 
       title="Total de estrelas GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/stars/{{SEU_USUARIO}}?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+      src="https://custom-icon-badges.demolab.com/github/stars/Kimhulu?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
     />
   </a>
-  <a href="https://github.com/{{SEU_USUARIO}}?tab=followers">
+  <a href="https://github.com/Kimhulu?tab=followers">
     <img 
       alt="Seguidores" 
       title="Me siga no GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/followers/{{SEU_USUARIO}}?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+      src="https://custom-icon-badges.demolab.com/github/followers/Kimhulu?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
     />
   </a>
 </p>
@@ -42,13 +42,13 @@ Meu nome é Carolina Borges, sou de Porto, Portugal e atualmente curso Imagem In
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats-eta-lemon.vercel.app/api?username={{SEU_USUARIO}}&show_icons=true&theme={{TEMA}}&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true"
+    src="https://github-readme-stats-eta-lemon.vercel.app/api?username=Kimhulu&show_icons=true&theme={{TEMA}}&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true"
   />
 
   <img 
     align="left" 
     alt="Top Languages" 
     height="200" 
-    src="https://github-readme-stats-eta-lemon.vercel.app/api/top-langs/?username={{SEU_USUARIO}}&theme={{TEMA}}&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true"
+    src="https://github-readme-stats-eta-lemon.vercel.app/api/top-langs/?username=Kimhulu&theme={{TEMA}}&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true"
   />
 </p>
