@@ -1,7 +1,7 @@
 # Carolina Borges
 **`Estudante`**
 
-Meu nome é Carolina Borges, sou de Porto, Portugal e atualmente curso Imagem Interativa no Instituto das Artes e da Imagem. Tenho grande interesse em Animação 2D/3D, Criação de Personagens e Desenvolver Videojogos, buscando constantemente aprimorar meus conhecimentos em Modelação e Animação 3D, Programação, Animações 2D/3D e na criação de Videojogos.
+Meu nome é Carolina Borges, sou do Brasil, mas moro em Mirandela, Portugal e atualmente curso Design de Jogos Digitais e Gamificação na EsACT. Tenho grande interesse em Animação 2D/3D, Criação de Personagens e Desenvolver Videojogos, buscando constantemente aprimorar meus conhecimentos em Modelação e Animação 3D, Programação, Animações 2D/3D e na criação de Videojogos.
 
 <p align="left">
   <a href="https://github.com/{{SEU_USUARIO}}?tab=repositories&sort=stargazers">
